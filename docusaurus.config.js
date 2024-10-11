@@ -78,12 +78,12 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Roblox Group",
-                href: "https://www.roblox.com/groups/32879520/BloxLane-Corporation#!/about",
+                label: "I should",
+                href: "https://www.roblox.com/groups/1/",
               },
               {
-                label: "Discord",
-                href: "https://discord.com/invite/H8YEHsrgRE",
+                label: "Have things to put here",
+                href: "https://discord.com/invite/na",
               },
             ],
           },
@@ -92,16 +92,16 @@ const config = {
             items: [
               {
                 label: "Organization",
-                href: "https://github.com/bloxlane",
+                href: "https://github.com/ualqc",
               },
               {
                 label: "Support Repository",
-                href: "https://github.com/bloxlane/support",
+                href: "https://github.com/ualqc/support",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BloxLane. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} south oak. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
