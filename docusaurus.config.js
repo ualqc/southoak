@@ -59,7 +59,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: "BloxLane Support",
+        title: "south oak support",
         items: [],
       },
       footer: {
