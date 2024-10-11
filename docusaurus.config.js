@@ -8,8 +8,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "BloxLane Support",
-  tagline: "All there is to know about BloxLane",
+  title: "south oak Support",
+  tagline: "All there is to know about south oak",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "bloxlane", // Usually your GitHub org/user name.
+  organizationName: "ualqc", // Usually your GitHub org/user name.
   projectName: "support", // Usually your repo name.
 
   onBrokenLinks: "throw",
