@@ -1,0 +1,8 @@
+{
+    "label": "King give me things to put here.",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "description": "King needs to give me stuff."
+    }
+}
