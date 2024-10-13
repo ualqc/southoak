@@ -63,7 +63,7 @@ const config = {
         items: [],
       },
       footer: {
-        style: "dark",
+        style: "simple",
         links: [
           {
             title: "Support",
